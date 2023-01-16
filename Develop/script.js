@@ -15,7 +15,8 @@ function generatePassword() {
  // For charLength
  if (!charLength) {
   alert("Please enter a value.");
-  console.log("A value was not entered.");                                                                      
+  console.log("A value was not entered."); 
+  //generatePassword(); -- loop prompt but password does not generate                                                                   
 }
   else if (charLength < 8 || charLength > 128) {
   charLength = parseInt(prompt("Please choose between 8 and 128 characters."));
@@ -24,7 +25,8 @@ function generatePassword() {
  let uppercase = confirm("Click OK to include uppercase letters in the password.");
  let lowercase = confirm("Click OK to include lowercase letters in the password.");
  let number = confirm("Click OK to include numbers in the password.");
- let symbol = confirm("Click OK to include symbols letters in the password.");
+ let symbol = confirm("Click OK to include symbols in the password.");
+
 
   if (!uppercase && !lowercase && !number && !symbol) {
     alert("Please include at least one criteria.");

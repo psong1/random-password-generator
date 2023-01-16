@@ -16,3 +16,6 @@ If each criteria is met, a random password will be generated with the user's spe
 
 * When the user clicks "Generate Password", a prompt will ask how many characters they would like in their password.
 
+![img](./Assets/char-screenshot.jpg)
+
+* If the user does not enter a value, a prompt will ask them to enter a value.
