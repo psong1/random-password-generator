@@ -13,3 +13,7 @@ This project is a random password generator that includes different criteria to 
     - Symbol
 
 If each criteria is met, a random password will be generated with the user's specified character length. If each criteria is not met, a password will not be generated and the text box will be empty.
+
+* When the user clicks "Generate Password", a prompt will ask how many characters they would like in their password.
+
+! (./assets/char-screenshot.jpg)
