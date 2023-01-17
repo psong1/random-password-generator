@@ -24,23 +24,23 @@ If each criteria is met, a random password will be generated with the user's spe
 
 ### Uppercase Letters
 
-![img](./Assets/upper-screenshot.jpg)
+![img](./Assets/images/upper-screenshot.jpg)
 
 ### Lowercase Letters
 
-![img](./Assets/lower-screenshot.jpg)
+![img](./Assets/images/lower-screenshot.jpg)
 
 ### Numbers
 
-![img](./Assets/number-screenshot.jpg)
+![img](./Assets/images/number-screenshot.jpg)
 
 ### Symbols
 
-![img](./Assets/symbol-screenshot.jpg)
+![img](./Assets/images/symbol-screenshot.jpg)
 
 * Then, a random password will be generated.
 
-![img](./Assets/password-screenshot.jpg)
+![img](./Assets/images/password-screenshot.jpg)
 
 ## Technologies 
 
