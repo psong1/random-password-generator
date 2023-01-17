@@ -40,4 +40,14 @@ If each criteria is met, a random password will be generated with the user's spe
 
 * Then, a random password will be generated.
 
-![img](./Assets/password-screenshot.jpg);
+![img](./Assets/password-screenshot.jpg)
+
+## Technologies 
+
+Built with:
+* Javascript 
+* HTML
+* CSS
+
+## Link
+
