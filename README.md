@@ -51,3 +51,6 @@ Built with:
 
 ## Link
 
+This is a linked to the deployed page to generate a random password:
+
+* https://psong1.github.io/random-password-generator/
